@@ -11,7 +11,7 @@
     "fetch": "^1.1.0",
     "material-kit": "^2.0.4",
     "material-kit-react": "^1.4.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
